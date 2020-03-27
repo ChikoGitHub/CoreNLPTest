@@ -1,0 +1,9 @@
+VBN 20
+VBP 0
+VBD 63
+VBG 32
+VB 185
+VBZ 17
+
+Verbs: 317
+NotVerbs: 1867
